@@ -1,7 +1,7 @@
 # Entry Management Software. 
 Innovaccer SDE internship assignment.
 
-Quick Start
+# Quick Start
 ## Install dependencies
 npm install for both frontend and backend
 
