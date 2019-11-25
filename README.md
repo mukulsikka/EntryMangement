@@ -2,19 +2,19 @@
 Innovaccer SDE internship assignment.
 
 Quick Start
-# Install dependencies
+## Install dependencies
 npm install for both frontend and backend
 
-# Create Database
+## Create Database
 Create a MongoDb datbase by the name of Test
 
-# Run the Express server
+## Run the Express server
 npm start
 
-# Run the React client
+## Run the React client
 npm run start
 
-# Server runs on http://localhost:3000 and client on http://localhost:3001
+## Server runs on http://localhost:3000 and client on http://localhost:3001
 
 Create a .env file in the root folder for the apikey, apisecret for nexmo and username, password, key for sgMail
 
