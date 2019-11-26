@@ -41,6 +41,9 @@ Nexmo (for sending SMS)
 - The check out time is stored and a mail is sent to the visitor providing him the details of his visit. 
 ## APIs
 POST /api/entry
+
 To check-in a visitor
+
 POST /api/checkout
+
 To check-out a visitor
