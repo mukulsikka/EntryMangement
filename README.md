@@ -28,11 +28,17 @@ sgkey = sgMail_key
 
 ## Technology Used
 NodeJS
+
 ReactJS
+
 Mongoose
+
 ExpressJS
+
 Sgmail (for mailing)
+
 Nexmo (for sending SMS)
+
 ## Approach
 - Upon visiting, a visitor has to fill up the check-in form that comprises of all the mandatory fields. A unique id is provided to the User for todays meeting
 - On submit, the visit entry is made into the database with all the necessary details.
